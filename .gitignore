@@ -33,4 +33,4 @@ typings/
 .fusebox/
 .dynamodb/
 
-*.build.qrk
+# *.build.qrk
