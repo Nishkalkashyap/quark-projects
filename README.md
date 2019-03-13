@@ -1,0 +1,1 @@
+Some projects made with [Quark](https://quarkjs.io)
